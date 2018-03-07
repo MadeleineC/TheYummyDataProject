@@ -14,13 +14,13 @@ Research Questions to Answer: The client tells us their restaurant type e.g. piz
      Output:  A heat map of  restaurants  with interest  in Austin 
           A general type heatmap
           A heatmap considering the price range our customer is targeting
+- What is the distribution of restaurants (not limited to any type of restaurants) with similar price range by zips in Austin?
+  Output: A heatmap of restaurants with similar price range by zips in Austin
+ Comparing 1 and 2, one can try to see whether our client’s type of restaurant is underrepresented in any neighborhood as compared to filled in restaurants in the same price range.
 
-What is the distribution of restaurants (not limited to any type of restaurants) with similar price range by zips in Austin?
-Output: A heatmap of restaurants with similar price range by zips in Austin
-Comparing 1 and 2, one can try to see whether our client’s type of restaurant is underrepresented in any neighborhood as compared tofilled in restaurants in the same price range.
-Which neighborhoods have populations with discretionary income for the price category of our restaurant?
-Output: A heatmap of median income of neighborhoods in Austin (this is constant and do not have to change from a client to another)
-Output: A heatmap of rental rate of neighborhoods in Austin 
+- Which neighborhoods have populations with discretionary income for the price category of our restaurant?
+  Output: A heatmap of median income of neighborhoods in Austin (this is constant and do not have to change from a client to another)
+  Output: A heatmap of rental rate of neighborhoods in Austin 
 I would assume the heatmap for 3  should have a good overlap with 2, but if not this can identify suitable neighborhoods which can be filled in.     
 Among these neighborhoods with my potential customers, how many restaurants of the similar kind are there and are they well received?
 Output: Pick a couple or three neighborhoods within the discretionary income and run the following analysis:
