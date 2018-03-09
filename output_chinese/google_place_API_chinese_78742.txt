@@ -1,0 +1,49 @@
+[
+    {
+        "formatted_address": "1555 Bastrop Hwy, Austin, TX 78742, USA",
+        "geometry": {
+            "location": {
+                "lat": 30.2218139,
+                "lng": -97.6740938
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.22293907989271,
+                    "lng": -97.67287312010728
+                },
+                "southwest": {
+                    "lat": 30.22023942010727,
+                    "lng": -97.67557277989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "6dc399dc54327be4e87dac82bf2911e746d9d9e4",
+        "name": "Gatti's Pizza",
+        "opening_hours": {
+            "open_now": false,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117429727392442433325/photos\">Manic Lalo</a>"
+                ],
+                "photo_reference": "CmRaAAAAAa8VLCSGj87vhAIEKJHfZjxY51GmOBPxw-M5fkLwG1f5UYs4b4cDHnocqgEQHUaFUJYAxLkbX-E7JW71_5-fGhvS9l59MhNQtwK6L3co4Fg95-VU6gfV0JprxRa6hNVqEhBqEkALlrSJRwrV03wCqE1uGhST7ZGeG3pUZEjNXwuk3CipzRA9cQ",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJPxWqfMi2RIYRHjIPgO6e-hQ",
+        "rating": 2.7,
+        "reference": "CmRbAAAAAQQBNB65hxEi3MspB_Cpv1aZiPVY2LWZXhTvkG4lbAKVo5mrHwhmxbL-JaoCS_n4zqwLkXbP1DJY4QieG_W_CBshrdve3QATjBDAiQgRjDisVCul3saJiWEvHSrJOXmbEhCX_4j3XytUTYt-0c-a1fr9GhSrKhxdu4M3rHU8Ub1caVP5wnMJKA",
+        "types": [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    }
+]

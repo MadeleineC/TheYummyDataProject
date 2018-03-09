@@ -1,0 +1,92 @@
+[
+    {
+        "formatted_address": "15 Rue Guy le Rouge, 78730 Rochefort-en-Yvelines, France",
+        "geometry": {
+            "location": {
+                "lat": 48.586619,
+                "lng": 1.988925
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.58797847989272,
+                    "lng": 1.990229229892722
+                },
+                "southwest": {
+                    "lat": 48.58527882010728,
+                    "lng": 1.987529570107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "5fbc5c968d8522872ee241f479186e9a8d5f565f",
+        "name": "L'Escu de Rohan",
+        "opening_hours": {
+            "open_now": false,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102095986709326853670/photos\">Juline Guigne</a>"
+                ],
+                "photo_reference": "CmRaAAAA41kCfqo19aK6hRctX0zXSK1sOq2EBV675FmIadFBmT2W6uh6geBX5lihBEoeRFerxfVdRx8oV4y0IFhFHNW35uDwGL0WPkKhZqNyX9nVd4jVOiTNLewgeJCdxhU-s6j-EhAew8-Moa4rKtkaotp0osWsGhRjD-PUEjjM0u32ig-EhQPfVJbBPg",
+                "width": 1960
+            }
+        ],
+        "place_id": "ChIJsY4S-IEu5EcRiO3dkWtxQfM",
+        "rating": 4.3,
+        "reference": "CmRbAAAA_PXKVnTgydS8YXjRYxkNHaCt4_Bgkrnygbz93jhqJTG1ydrygkbMz1CKI0N_CoMXd9fXEjDmOdTuLoiyKBvIKodYWUHHcdMWpB5L1aPJvIKuuEZGwCCEctVhwG57FP6sEhAo8Lab0r3kilaw2p6wUEbvGhRfYTj24bShlwpC1qZrhSPkM3Xs9A",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "55 Rue Charles de Gaulle, 78730 Saint-Arnoult-en-Yvelines, France",
+        "geometry": {
+            "location": {
+                "lat": 48.5719012,
+                "lng": 1.9395097
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.57324952989272,
+                    "lng": 1.940861929892723
+                },
+                "southwest": {
+                    "lat": 48.57054987010728,
+                    "lng": 1.938162270107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "2479e78a8019c3f5fbf6e12ee82ec4e31d6dd674",
+        "name": "La Remarde",
+        "opening_hours": {
+            "open_now": false,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 2144,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106143841159418368177/photos\">La Remarde</a>"
+                ],
+                "photo_reference": "CmRaAAAAIpmxR6E8I5z8X_7vYRIGlZacwJbEOlX_RokriiC6HOSA0jA00C3giEYkbiYPZ-KLD-aD30ip1JiOJmPipc6eOJ4fIrmxib17RtLyISvuEI26r6ksQC8oAHutJtDkWswjEhDtuVRnOJsMsdcg9W5_20ltGhR9ve_FQDl_FwzyT4zoCQuz-2DTXQ",
+                "width": 2848
+            }
+        ],
+        "place_id": "ChIJ74vmD7Iv5EcRrRUd_u8asHo",
+        "rating": 4,
+        "reference": "CmRbAAAA_G14hNHtIcSjVjwaP-gp2Jj7wzxEtdh1nRrsPMvRI4v8Bm19StmSKtmC-lOBFzbRlyosA_tnbnsQT3AGUCAZ1zX9rY4e3qlMWRnIY5w96DQm7yBXUP9Sgmn4wMSmWbUqEhCgb2TJaU3oh5Rfab6PSgLYGhQKlB0SjfeIQBAtYWkD6Xh5qXQg2w",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    }
+]

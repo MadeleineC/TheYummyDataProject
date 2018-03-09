@@ -1,0 +1,344 @@
+[
+    {
+        "formatted_address": "11032 E US Hwy 290, Unit 300, Manor, TX 78653, United States",
+        "geometry": {
+            "location": {
+                "lat": 30.3496159,
+                "lng": -97.5569549
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.35096572989272,
+                    "lng": -97.55560507010728
+                },
+                "southwest": {
+                    "lat": 30.34826607010728,
+                    "lng": -97.55830472989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "4ee2a906cb3ca61e54b37c0507d549d0f588ae43",
+        "name": "Taco Bell",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115443785889401701959/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAyhevziCZ0nLI1VBU7Q4rRxJFDp0MxVusfJP6wNbiZDa_EebNeXdyc3Ht-tgpb1ln36d9esjx0s0fhRmv1Zck-clCW5QkvQ1V4PQB1mS3etb6LXuhgnatkgOCdyqi3VhYEhAyGaBWTu3CcIbtcGf_3ySJGhRzYmUHo2FWUJGse-N0EaBdfgjt9w",
+                "width": 600
+            }
+        ],
+        "place_id": "ChIJYeiEUxvHRIYRxD4tMjDvmoA",
+        "price_level": 1,
+        "rating": 3.1,
+        "reference": "CmRbAAAATUIJFMskBXl239taTbujTyZtCml2DU_yj-J-6lZy7_csGzMWv-2BMxXdJjiJJVPcKEaoWyYwysVsdx0xcHZLQzYUhz0WanIqoB2wOQ5v6LHx-pAn5JS0nzardc0HOPmlEhAQz4rvQZUgTjoan9LblJN0GhSvrRCyvct5kcvJdU7OYKK-Acc6Hg",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "116 E Parsons St, Manor, TX 78653, USA",
+        "geometry": {
+            "location": {
+                "lat": 30.3406897,
+                "lng": -97.5570327
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.34216832989271,
+                    "lng": -97.55565302010729
+                },
+                "southwest": {
+                    "lat": 30.33946867010727,
+                    "lng": -97.55835267989274
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "3955dd2f2174c649a392092698d3895083589f80",
+        "name": "Ramos Restaurant",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113481720916264678282/photos\">Daniel Hentschel</a>"
+                ],
+                "photo_reference": "CmRaAAAADOVROb45LH2l8lIlvYRCayBpc6Zx4mRULOwrTl3EcTMcd0g0d9QMbbRL7bAlzDCiH7SMzKTjAQuz79zbyFbJfV9KwL6nOmNf7qeNR4FHBbFOZnNZPoHF4OoGgpcAbSWSEhB2Lyj2ppt5uVMdShBYKfBnGhRhW4DyMBnUUzGuNvB5YCQW2JNcxw",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ9a7vLA7HRIYRdGDpIlZfejk",
+        "price_level": 2,
+        "rating": 3.8,
+        "reference": "CmRbAAAAwV2Ophk2Dsb2-0O0Lp-DCEbfxo7v0yo1V30LdwEEvQtM9lrnUNq9VOezECVNrpVRlWNnbWyjtTO7ntYlgUXSb6mK2QKyYd9cfsktd_-vzuLV_Y8jhd3K-wX52GXk9FRUEhAb1B6NACjzDC5i5jBY-V-hGhRtt8iKKW0XAtvdZWq9BIRrrpx3Xg",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "10814 US-290, Manor, TX 78653, USA",
+        "geometry": {
+            "location": {
+                "lat": 30.3487287,
+                "lng": -97.56117549999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.34993637989272,
+                    "lng": -97.55979092010728
+                },
+                "southwest": {
+                    "lat": 30.34723672010728,
+                    "lng": -97.56249057989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "bf2e425d6cf7ea8b6f9cbdd0708cfa040f2748bd",
+        "name": "Loco Taco",
+        "place_id": "ChIJdX6mbwTHRIYRAKMrD_qZnRk",
+        "rating": 5,
+        "reference": "CmRbAAAAwy6CrKlNsehZPuz_-T0ibfTDQOUh7vkw9Lacz6o8RAGSCWJrXbq1ZllEytfz-k3vHHYcXQ8WONatUrIxKj9ipY8VAgRRfmcLe64UpD20w1c2TGAP4NZauJzEJPXKX2UuEhClYICx16pyAUHCYQsj1_0LGhTKV66i2TnVZ5rh5UHWUN_fRSxWGw",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "Manor, TX 78653, USA",
+        "geometry": {
+            "location": {
+                "lat": 30.3485367,
+                "lng": -97.5562052
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.34988652989273,
+                    "lng": -97.55485537010728
+                },
+                "southwest": {
+                    "lat": 30.34718687010728,
+                    "lng": -97.55755502989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "c4491777e8296628a1250a4553117427281e22cc",
+        "name": "Taqueria Huentitan Mexican Fd",
+        "place_id": "ChIJbwFEnyXHRIYR8Qe-mrFeqgw",
+        "rating": 3.1,
+        "reference": "CmRbAAAA31M0z5K4xJXjj2XwZ6xB3OPAZnW_SykJMzk-iDyjRb3smGHPueX_Fx5NmqiLjMylhVZv3NrFwRyP0X-lKlNoIhk9CUfXG8aAse2uaqxtrCObtEX--Sk3OPy3cy-mJaxIEhCvvE6A_ZIGdqM3dYzVDjfkGhS6c26grJQ0_deje-EEAvb8MnV0qw",
+        "types": [
+            "convenience_store",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "Manor, TX 78653, USA",
+        "geometry": {
+            "location": {
+                "lat": 30.3487956,
+                "lng": -97.5607325
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.35014542989272,
+                    "lng": -97.55938267010727
+                },
+                "southwest": {
+                    "lat": 30.34744577010728,
+                    "lng": -97.56208232989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "6a6f4bf838bc8286e8ae96d7c20752f20fc25f5b",
+        "name": "Adreland's Tacos",
+        "opening_hours": {
+            "open_now": false,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110751348883493182280/photos\">Carlos Serrano</a>"
+                ],
+                "photo_reference": "CmRaAAAAnQnaxUKc-9VTyv0grN924hurAEV6CE09v0gxgEFWKcoVr_wDoCHqeHeBvrhppqr0rQR1hyixLGdgY8-xjA6-EYeGO_LVhv7jEq8Xcz_ksyW3M9BmIvlGi_yvwwoub6P_EhBb3NzqEsQaTFEW4DZCOcOLGhRAQkqtY2zjpInft3SZy4_goeBFSQ",
+                "width": 2560
+            }
+        ],
+        "place_id": "ChIJFzrGbwTHRIYRNlpqlkz_ia0",
+        "rating": 5,
+        "reference": "CmRbAAAAKxG1e6B2aqUIx8nYGAlvaZDVWHAx02thSR42xl0zXondv6htY6TkiNuea2tuI_C6MGCMBTEzOYDCeAO5q8_jLWobw2s-4stTIpRJ2x9gU4Wg3f4xOaiLoFtm5y4JgDrIEhCtW6BaRUOBXWzoF1Pu0smCGhQ8jsMFqfiSTpLIe4xibWL5iCS2ag",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "13600 FM973 Suite 300, Manor, TX 78653, USA",
+        "geometry": {
+            "location": {
+                "lat": 30.3598055,
+                "lng": -97.5326833
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.36114567989272,
+                    "lng": -97.53128547010729
+                },
+                "southwest": {
+                    "lat": 30.35844602010728,
+                    "lng": -97.53398512989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "e1038667d7b77dbb12a392dd318be6385d612523",
+        "name": "Taqueria Krystal",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104294533563174343478/photos\">RICARDO BELTRAN</a>"
+                ],
+                "photo_reference": "CmRaAAAAT8AD6qIcVnSswgYwJdNpt_jhz-xluCT93Yu0zro1BXeIMjoNZ8CWFB5XkyzSn6w5Z4H1JxhPK3pKVXUyV_9--tdV_VpfcM8kgSJXlmXiY42QCxlq4KGzDZcNg7Uw9VQTEhAL1cVphb-hMb1ePJGzYcNIGhQTshgXT5E4OZYiIv-uTo0eKIlwXg",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ0YXWyNfGRIYReSW-OwNhpwI",
+        "rating": 4.3,
+        "reference": "CmRbAAAAuKR-ZTy3P0rL3XmzIVgwHB-RjhtyLRoawwGtfmnosSnZtPiDQZwieSz0XM3F2GHzmm2Ow9vHh0nLguEEU-Rvw1pw7OxV-m61UrubqGQl0oy33ga_w7zpy3Icm9Vmyo46EhAxKO1Ukf4lfLPMUQDutpEkGhQdtW5ASmmPUFazvHxuh6KbyDmViw",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "14605 FM 973 N, Manor, TX 78653, United States",
+        "geometry": {
+            "location": {
+                "lat": 30.374301,
+                "lng": -97.529476
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.37565082989271,
+                    "lng": -97.5281261701073
+                },
+                "southwest": {
+                    "lat": 30.37295117010727,
+                    "lng": -97.53082582989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "c15567b61c1cf3c14258d2de1f4363b6c534c05c",
+        "name": "Good Luck Grill",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 2878,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109202220048040063323/photos\">Good Luck Grill</a>"
+                ],
+                "photo_reference": "CmRaAAAAH9Xrl_i9TyG-1LfdwwwBIEFy1n-Q-6A8veGyp_m0jOIhTzI7fplqgWXhVxCaXuqGNeym-IzmEHeVhkUzlx2ilr21-ObXQuxOiDFJKKA0fLQJg74gNkYs8XbxNlUFHg9yEhB6hiFebQROrn_lZXwD5QGNGhRPC99v-7hB1gotfXT9z5gQNzXGbA",
+                "width": 4354
+            }
+        ],
+        "place_id": "ChIJTeX-B8zGRIYRARuIu0nTRN0",
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "CmRbAAAAxXbaqIH6yZ1Jvp6F2gckr_aiP481xlWP2AjB561GML8wcay_j-VElyo3CzrdJ9briZ3SozbZmpYk3A-JD28SE6JyYeswCAxfKDXyA8Qjta5bAgpb9nMrdRoqcn_se79UEhDf7IiHtEzQsq4v6yBZ_m_LGhQmrCQ9bdJ_fYoQxhvCPJ5YfmR4Tw",
+        "types": [
+            "cafe",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "11007 US-290, Manor, TX 78653, USA",
+        "geometry": {
+            "location": {
+                "lat": 30.3482889,
+                "lng": -97.55868629999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.34982742989272,
+                    "lng": -97.55735437010726
+                },
+                "southwest": {
+                    "lat": 30.34712777010727,
+                    "lng": -97.56005402989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "26ebc2bd44ec1240b6918102512a3bce10270549",
+        "name": "La Plaza Mexican Restaurant",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114990217061156453936/photos\">Adam Duvall</a>"
+                ],
+                "photo_reference": "CmRaAAAA879UO0RB8ZpmnEeuoIe2W3hh-6ReTKAUIZ0zLEIOt2Gflr-Q9nniKARLh5j-EWkSQBHSZL811uvUUmpXWvaJWbr-zBcFAl2gsfmGBrqvz3pCPSqJU-AkRj_ppUwTmBcFEhDrcFrv52j28bL48RR3p5KiGhTC87T9zQu4k2_K20huzGvUDipzlQ",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJOV3L6gTHRIYRr73-iR2mlTo",
+        "price_level": 2,
+        "rating": 3.1,
+        "reference": "CmRbAAAAUsRdWAZ2OzqR0_3DxYFmvdl3tiwShAc24Gxh-cCFS8vzZv-ITiJtxIQIvHguG1ZE9_7KjHhDfDSeQZUiOYYYwpADu6WtxtK4IUbwLXLnPz13gDWHuaJo8n6P3I7qf1yyEhDXsjgYKLiOc2ruz1-xcsfwGhR_YTWd_4UJ57hyd9WltV7vQn8IYA",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    }
+]

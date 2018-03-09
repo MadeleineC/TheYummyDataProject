@@ -1,0 +1,49 @@
+[
+    {
+        "formatted_address": "3110 Guadalupe St, Austin, TX 78705, USA",
+        "geometry": {
+            "location": {
+                "lat": 30.298444,
+                "lng": -97.74124700000002
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.29972507989272,
+                    "lng": -97.73975082010729
+                },
+                "southwest": {
+                    "lat": 30.29702542010728,
+                    "lng": -97.74245047989274
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "f25416306688afad6e25088e4cd70e90fc67463a",
+        "name": "Hopfields",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 1152,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110645738576474513856/photos\">Hopfields</a>"
+                ],
+                "photo_reference": "CmRaAAAA1XtbJULCeAYMjvk_Rz7Tz7Y62boeesx1W10miAKtBdU4OYwWl6uOVnJXohsU_EsJUyA4W6LYGPDoa9X3aEREEodEhBCh63vYiVSTPn13UOFDJhq2NTjCSeuyz-FNS8CaEhBj0uxntZQYs0vdiyEakzTzGhQUjGuqFyKPH823E6EwUHGBqg7gxw",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJH5NqBIC1RIYRW-84tXdUYV8",
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "CmRbAAAApw8sJh9xNd2jdmx3Vrcd3whJlTU9g1SURKdNF26WQRqilMfSXOBot3O_oxPKqkw0orNnb5bL-0__Sfpwyqh9Ui0p6UjjtbQHeMtmS7KBOrvGyk8_e_eJKLC2oqOVcDkoEhCxqzXlZUPu2Y9RCYznvq3fGhRmFmbXRLV_QVT_LHBDazN5urphnA",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    }
+]
