@@ -1,0 +1,141 @@
+[
+    {
+        "formatted_address": "2807 San Jacinto Blvd, Austin, TX 78712, USA",
+        "geometry": {
+            "location": {
+                "lat": 30.2915386,
+                "lng": -97.73497160000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.29284377989273,
+                    "lng": -97.73368577010729
+                },
+                "southwest": {
+                    "lat": 30.29014412010728,
+                    "lng": -97.73638542989274
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "638a3aa9b1a59631dcf58b4d9e10e4a0b3e0d1ce",
+        "name": "Taco Joint",
+        "opening_hours": {
+            "open_now": false,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112144792338233554854/photos\">Aritra Kar</a>"
+                ],
+                "photo_reference": "CmRaAAAA1jDce9DPUpWYV2PoS-TuJEuGK2hIsaFLniE3pbsnmFlBvXOVvPGMd2gvpchrF_t3PKPHSTFEVCRs3LEeqQ2hSl-wsHCpIdnMGEdEgA_gsArJ0m5c7XlPcvtbnYRkJFM9EhDuonCY9ap0J5Y9Wzrv5NZrGhTQwpaENjUnUCTiD108WQNRIuQqQA",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJ5dmFaIS1RIYRgb_KK7WtaA8",
+        "rating": 4.6,
+        "reference": "CmRbAAAAz95k4QvVeXt0q0KzedMW7niJqsQtYCCwEeQd7n1YamV8ukSjMAjP6WTqk1oKpL2s91QuP7QqqQ9bBjpBTk9Gunfz8LfvVPE92g0eSO6YmT8kubb0NxsAus42kcYBshQfEhBuQDxFmY9axW2O6phzWFfwGhSQK941lnvxOAIjDqM_EojtqLcxyA",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "2201 Speedway, Austin, TX 78712, USA",
+        "geometry": {
+            "location": {
+                "lat": 30.2851512,
+                "lng": -97.73593869999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.28655227989273,
+                    "lng": -97.73523582010728
+                },
+                "southwest": {
+                    "lat": 30.28385262010728,
+                    "lng": -97.73793547989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "5d31993cec674267aea91ea51c2836d374289f62",
+        "name": "Taco Cabana",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 5312,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107583681498102737824/photos\">Kendra Wiley</a>"
+                ],
+                "photo_reference": "CmRaAAAAKwVZlhWr0vMdklU6Es1m43Q0aHXv9nQewriHAKw7W27AjEGiyRDmrsiGgdL_m4YGWSDNECA1luw3fLpLAT-q0N5X0fxdtbj2bV09NFg3jL7ypLmccwdfkEFfap_2vp5YEhBnJwNfOM2q7fM8tdThiZOTGhQE1ifSgOa5694DrgoLLSfFMqRdBw",
+                "width": 2988
+            }
+        ],
+        "place_id": "ChIJP1sfgJu1RIYR2oTXw8u5cDs",
+        "price_level": 1,
+        "rating": 2.9,
+        "reference": "CmRbAAAALbJLltNmhMFdfueNfFJuymLPfOQOvLPgsjlSBmM3CEWYSN7STgheFeqoYSE825c2Btf4FOKliNhk8kHtzv8XEQbKpePybUuUJOGpDjUW_y67iI4iNaV-lH5DCGQ746JNEhC8JNh3ZQULQvGzeu7SahiGGhSiE7O06R5_CVQh27iIa-pnbgZIfw",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "201 E 24th St, Austin, TX 78712, USA",
+        "geometry": {
+            "location": {
+                "lat": 30.2868693,
+                "lng": -97.736556
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 30.28843132989273,
+                    "lng": -97.73518942010726
+                },
+                "southwest": {
+                    "lat": 30.28573167010728,
+                    "lng": -97.73788907989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+        "id": "a7962441dba3625a2a2d4e22698fc37331d3fe1e",
+        "name": "O's Campus Cafe",
+        "opening_hours": {
+            "open_now": false,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112443013934114183058/photos\">Pato Lankenau</a>"
+                ],
+                "photo_reference": "CmRaAAAA--i50yhL_yL2QvY2Kdu93hJXZcK10ScBKyQxVt68A4kh0-kMo54fHXUVMLKDdlYBhJhDcHSSfVliScE3jsEWsFAXGwF4s4MCf1h59m_-KqQ69Id5OKQyH9_tDa1L1l2YEhBD1uOjR2DxnVcHnLFG13EqGhQBdvYAP3tRQ79B9WIMBK7vmQ9wWA",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJt7Vqp5y1RIYRSsXONgzDTyo",
+        "price_level": 2,
+        "rating": 3.8,
+        "reference": "CmRbAAAAf1fWDHV4PTZ9SfmTQ3n1sw8YoSoym5Cch9RQ5bcCehebMtXGsYR8IO_ADjrau0BmzTGex4if2rai0YSXsBCTgTINRgkc2uYPeyq-H2n10pIbCURMiGvmorL9BQc6s657EhAHQt69U0szxwIyomdjDW3lGhQgjYFWDPZ8F_LOVGrtO1Q1tOtrEQ",
+        "types": [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    }
+]

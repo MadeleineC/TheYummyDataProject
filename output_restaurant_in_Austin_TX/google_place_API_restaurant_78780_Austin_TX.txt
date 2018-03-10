@@ -1,0 +1,128 @@
+[
+    {
+        "formatted_address": "41 Rue de Pontoise, 78780 Maurecourt, France",
+        "geometry": {
+            "location": {
+                "lat": 49.0020526,
+                "lng": 2.0597261
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 49.00340902989272,
+                    "lng": 2.061116129892723
+                },
+                "southwest": {
+                    "lat": 49.00070937010727,
+                    "lng": 2.058416470107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "24cfc1d6f1542ff3a382718b88625e221683a15d",
+        "name": "Tr\u00e9sors Indiens",
+        "opening_hours": {
+            "open_now": false,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115839589604404679993/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAKRPiF0dPLO_bvSX4mYXWuxJzDrkXfOnQyDG_rJqRvM8XJuEk8yr_NBnnyklejVbIYqKCG8eetynbCjNppLquxurhU0ZpyWw5P-FccvmwQPy6yINfwRQBSal71ivQO0eIEhC-2o7T6ZJvfTOpWxyZcc7DGhSVoFAnoVXbRsua9r-FzkQfmD_VUg",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJL2-rZx-L5kcR-x18meIrs3U",
+        "rating": 3.7,
+        "reference": "CmRbAAAA27MAYKO4atVoi7_UdZQdOqdwHcu5M71FTME4WrO1ojq0x-ZsYQDCeWoYTr0eMFxE9AF29y31_lGlB2IE-tnSuWPA69dY6sVWY0lUGAxqqrQVvgXq8d0bau6hO3q1kNEvEhDMlR2O70pJ8no-V6IWkS0lGhS_HwKk8fNqHaQYEp92QoVbMmJzSA",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "15 Rue du Mar\u00e9chal Leclerc, 78780 Maurecourt, France",
+        "geometry": {
+            "location": {
+                "lat": 48.9956928,
+                "lng": 2.062949
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.99705212989272,
+                    "lng": 2.064324529892723
+                },
+                "southwest": {
+                    "lat": 48.99435247010728,
+                    "lng": 2.061624870107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "881d56ddd9318aecfaa45b4772e53c3326285eac",
+        "name": "2 Pains D'Ailleurs",
+        "opening_hours": {
+            "open_now": false,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106032895104733862558/photos\">Kurbiel Pawel</a>"
+                ],
+                "photo_reference": "CmRaAAAAURok8vp4uIfpJuIuspSiQloO-yaLwXh36J6-Eo9VERi16HRN_bYXrZgpVrva8DTpVzOl0ZycXw6aJTs3pGbh22DOC-2SWoZolA1fdYobxAzoSPyvqmpVTLq9Zz0-BTSLEhAiZYvfEIIgwkJXEUh1AjZjGhT0OZabjuFU9IJFm7RemSBslLF1-A",
+                "width": 2560
+            }
+        ],
+        "place_id": "ChIJrUk-hh2L5kcRZJoTE33u9g0",
+        "rating": 4.1,
+        "reference": "CmRbAAAAnpcOaH8aSGqka7-uehoxcfYjBTUO1vd_prWRpRsEOlJX_8t0RBLT66CVlPRfsNtzeSLxsvJCYtSOFft2y2PDH3zRm7xYgWk-yaGT8agjHpAB7OmdPzMez6gHS1egzc8VEhAS0pv0Hc9SjrDihCHvDMPGGhThgdLiH1IKH5L7T0YvG9t475FIug",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "formatted_address": "18 Rue du Mar\u00e9chal Leclerc, 78780 Maurecourt, France",
+        "geometry": {
+            "location": {
+                "lat": 48.995937,
+                "lng": 2.0626483
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 48.99729792989272,
+                    "lng": 2.064054079892722
+                },
+                "southwest": {
+                    "lat": 48.99459827010727,
+                    "lng": 2.061354420107278
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "bf5b1741952c410602862ed40e825c91863b0f80",
+        "name": "Brasserie Versus",
+        "opening_hours": {
+            "open_now": false,
+            "weekday_text": []
+        },
+        "place_id": "ChIJWSy0jx2L5kcRG5uqG8fq_2o",
+        "rating": 4.2,
+        "reference": "CmRbAAAAT7Ec2HvOh1hUS67dTU918fq_0ZxePM4zi0fA36RnRgZ2GYKeDS9cl011a2I41TG234qzCHbNM2elRvaZpiypNBkxEVNYvWUlCI2-ZRcQgiOnaDRB8ZtBNTrgieMH_E4xEhDb-cqb8kbdd9ZzV1sBCm5MGhTMGivreKYZRaUoz7mo616dFx1muw",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ]
+    }
+]
