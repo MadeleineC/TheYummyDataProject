@@ -26,43 +26,43 @@ To answer the following research questions, we are utilizing the scenario that o
 
 Utilizing the below heatmap we see that almost 30% of all taco restaurants in an Austin zip code can be found within just 3 zip codes.  Downtown Austin (78702) has by far the highest density of taco restaurants, followed by a distant second and third of 78704 (Barton Hills/South Congress/South Lamar) and 78757 (North Shoal Creek/Crestview). 
 
-<h4>Chart Heading*</h4>
+<h4>Heatmaps of Taco Restaurant Count by Price and Rating</h4>
 
 !["heatmap"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/output_yummy_client/Heatmap%20of%20taco%20restaurants%20by%20zipcode%20in%20Austin%2C%20TX.png)
 
-<h4>Chart Heading*</h4>
+<h4>Swarmplots of Restaurant Count by Price and Rating</h4>
 
 
-!["swarmmap"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/output_yummy_client/Swarmplot%20of%20taco%20restaurants%20by%20zipcode%20in%20Austin%2C%20TX.png)
+!["swarmplot"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/output_yummy_client/Swarmplot%20of%20taco%20restaurants%20by%20zipcode%20in%20Austin%2C%20TX.png)
 
-<h4>Chart Heading*</h4>
+<h4>Taco Restaurant Density by Zip*</h4>
 
 *See below for instructions to view dynamic plots.
 !["Cluster Map by Density"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.12.22%20AM.png)
 
-<h4>Chart Heading*</h4>
+<h4>Heatmap Density of Taco Restaurants by Zip*</h4>
 
 *See below for instructions to view dynamic plots.
 
 !["Geo heatmap"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.38.44%20AM.png)
 
-<h4>Chart Heading*</h4>
+<h4>Map of Locations with Ratings*</h4>
 
 *See below for instructions to view dynamic plots.
 
-!["Location by Rating"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.09.00%20AM.png)
+!["Taco Restaurant Location by Rating"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.09.00%20AM.png)
 
 Note: Dots in red are restaurants restaurants that have not been rated.
 
 <h3>Which neighborhoods have populations of target market based on income and support restaurants of a comparable price point? </h3>
 
-<h4>Chart Heading*</h4>
+<h4>Taco Restaurant Density by Median Income*</h4>
 
 *See below for instructions to view dynamic plots.
 
 !["Median Income"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.07.41%20AM.png)
 
-<h4>Chart Heading*</h4>
+<h4>Heatmaps of All Taco Restaurants Count by Price and Rating*</h4>
 
 *See below for instructions to view dynamic plots.
 
@@ -70,7 +70,7 @@ Note: Dots in red are restaurants restaurants that have not been rated.
 
 <h4> Instructions to View Dynamic Mapbox Plots </h4>
 
-- Download output-mapbox_2 directory from repo.
+- Download output-mapbox_2 (mapbox visualizations) or output_yummy_client (geo-heatmap) directory from repo.
 
 - In terminal enter: python -m http.server
 
