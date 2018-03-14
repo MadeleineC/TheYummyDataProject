@@ -11958,3 +11958,373 @@
 2018-03-14 15:54:07,924 debug hey i have 0 restaurants
 2018-03-14 15:54:09,927 current length info_list is 13
 2018-03-14 15:54:32,368 there are 13 restaurants received and 11 after dropping duplicates
+2018-03-14 16:20:21,180 Starting new HTTP connection (1): www.webservicex.net
+2018-03-14 16:20:21,255 http://www.webservicex.net:80 "GET /uszip.asmx/GetInfoByCity?USCity=Des%20Moines HTTP/1.1" 200 658
+2018-03-14 16:20:21,259 Starting new HTTP connection (1): www.webservicex.net
+2018-03-14 16:20:21,392 http://www.webservicex.net:80 "GET /uszip.asmx/GetInfoByCity?USCity=Des%20Moines HTTP/1.1" 200 658
+2018-03-14 16:20:21,584 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:22,208 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50301&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:20:22,212 zip_code:50301 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50301&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:22,212 debug hey i have 0 restaurants
+2018-03-14 16:20:24,217 current length info_list is 0
+2018-03-14 16:20:24,220 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:24,698 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50302&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:20:24,700 zip_code:50302 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50302&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:24,700 debug hey i have 0 restaurants
+2018-03-14 16:20:26,701 current length info_list is 0
+2018-03-14 16:20:26,705 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:27,432 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50303&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:20:27,436 zip_code:50303 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50303&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:27,436 debug hey i have 0 restaurants
+2018-03-14 16:20:29,439 current length info_list is 0
+2018-03-14 16:20:29,444 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:29,902 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50304&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:20:29,905 zip_code:50304 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50304&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:29,906 debug hey i have 0 restaurants
+2018-03-14 16:20:31,906 current length info_list is 0
+2018-03-14 16:20:31,910 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:32,550 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50305&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:20:32,553 zip_code:50305 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50305&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:32,553 debug hey i have 0 restaurants
+2018-03-14 16:20:34,554 current length info_list is 0
+2018-03-14 16:20:34,558 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:35,369 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50306&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 2436
+2018-03-14 16:20:35,372 zip_code:50306 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50306&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:35,372 debug hey i have 4 restaurants
+2018-03-14 16:20:37,375 current length info_list is 4
+2018-03-14 16:20:37,379 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:37,875 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50307&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:20:37,880 zip_code:50307 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50307&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:37,880 debug hey i have 0 restaurants
+2018-03-14 16:20:39,882 current length info_list is 4
+2018-03-14 16:20:39,888 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:40,488 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50308&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:20:40,492 zip_code:50308 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50308&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:40,492 debug hey i have 0 restaurants
+2018-03-14 16:20:42,494 current length info_list is 4
+2018-03-14 16:20:42,498 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:43,518 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50309&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 10000
+2018-03-14 16:20:43,521 zip_code:50309 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50309&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:43,521 debug hey i have 20 restaurants
+2018-03-14 16:20:45,526 debug hey I am under the while loop
+2018-03-14 16:20:45,527 zip_code:50309 page:2/n https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=CpQCBQEAAFzXeQtbRiqQeyhx42UUDXeiTdo9sVvhb5UsmCjXzwAiRxEzWCYevzI9w5JRUMeqJQxP_TQ-cOJsaxgtrgOsI4N0qIgVOkODP0IeI_KRo9TppFTAQiipU9MIMbC5HS7i6Hmeos4297eaZDDB2ogDnV9Vbzqwaw9Kj241A3ifaZ1q6NA35DDbn47U4YyRQS_NOE5KPEFqVKhaoiCcbqxfUQZFwO6dBl0tP2xPY9yK8mofGMfyxMmtWsAf02qpyeTd70_iu2GsnuKPzFG98ZWi8G8-6W515XQB5ysCznCcWG0u09NXbGJzZdn6Yx9rlLC5SaWieQrN9CL61yld7qOKMLMOpOrG_Y9iYSC8U2k79iUbEhCnO_BCOabGnmeAX16i5g_BGhRrsh0j00DFauAvU0XK2ZRZdCNxrg&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:45,531 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:46,650 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?pagetoken=CpQCBQEAAFzXeQtbRiqQeyhx42UUDXeiTdo9sVvhb5UsmCjXzwAiRxEzWCYevzI9w5JRUMeqJQxP_TQ-cOJsaxgtrgOsI4N0qIgVOkODP0IeI_KRo9TppFTAQiipU9MIMbC5HS7i6Hmeos4297eaZDDB2ogDnV9Vbzqwaw9Kj241A3ifaZ1q6NA35DDbn47U4YyRQS_NOE5KPEFqVKhaoiCcbqxfUQZFwO6dBl0tP2xPY9yK8mofGMfyxMmtWsAf02qpyeTd70_iu2GsnuKPzFG98ZWi8G8-6W515XQB5ysCznCcWG0u09NXbGJzZdn6Yx9rlLC5SaWieQrN9CL61yld7qOKMLMOpOrG_Y9iYSC8U2k79iUbEhCnO_BCOabGnmeAX16i5g_BGhRrsh0j00DFauAvU0XK2ZRZdCNxrg&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 10133
+2018-03-14 16:20:46,657 debug current page has 20 restaurants
+2018-03-14 16:20:46,657 debug now i have a total of 40 restaurants
+2018-03-14 16:20:48,658 debug the current token is CrQDpQEAAHLalJevogSttck2u1TnZRuUYU4Xj8GuzZffFfzd5Zq4U8Fa_rtangl2BcvKF9AsI1dIhEYwLkkNGhJJQsHjjSUjW6sL8jWDodifXd5h38yBRSu8q6YkKXBNUcge9n3chruIBf_GkrNnrVe45-Kl6BoxTEbJh7-gP1XqdRwDegaDKT2mVl0vV6BQ6FNTL4NpDT6RalAzcTNjNUzVZqOV8DJ-SzSQcwzDgso7YxNhzXWmoySVfDRZWOZP8LQcxdhtKbrkpEhmuM90ZX49Y27asO2zo3OKQqeQ53ELS5LcASjlxnp1X9PYD3mMSTbw3zLxgAtVpCD5PkvcFq-3TtsBiMW667-rNrtwK0lwWGtxjPyXD28gelMr7_6uXIiXgf9XAzY_oLmyLKnNKQ_ikfhukPIPgGfU8U1qAc5uqrZEiTd7d48gad8FPUhx3K2q01mjHTw3nUeP4bs7wfAORSAMLIxzGAcLdBkwE5Qt2A3HiQHV_McugD16FH1Qa6gY0uRfsd_KcWcZ47UjbUuJuyjVW86ByvtTpRhuw5a6m9H9DkQyvHCM5Kp11SnWixSuYv6fbRIQodgX10-5F2FrZKG6wK7fHxoUlBcGjZl1gJfS_wTjMAKLtIopWz8
+2018-03-14 16:20:48,658 debug hey I am under the while loop
+2018-03-14 16:20:48,658 zip_code:50309 page:3/n https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=CrQDpQEAAHLalJevogSttck2u1TnZRuUYU4Xj8GuzZffFfzd5Zq4U8Fa_rtangl2BcvKF9AsI1dIhEYwLkkNGhJJQsHjjSUjW6sL8jWDodifXd5h38yBRSu8q6YkKXBNUcge9n3chruIBf_GkrNnrVe45-Kl6BoxTEbJh7-gP1XqdRwDegaDKT2mVl0vV6BQ6FNTL4NpDT6RalAzcTNjNUzVZqOV8DJ-SzSQcwzDgso7YxNhzXWmoySVfDRZWOZP8LQcxdhtKbrkpEhmuM90ZX49Y27asO2zo3OKQqeQ53ELS5LcASjlxnp1X9PYD3mMSTbw3zLxgAtVpCD5PkvcFq-3TtsBiMW667-rNrtwK0lwWGtxjPyXD28gelMr7_6uXIiXgf9XAzY_oLmyLKnNKQ_ikfhukPIPgGfU8U1qAc5uqrZEiTd7d48gad8FPUhx3K2q01mjHTw3nUeP4bs7wfAORSAMLIxzGAcLdBkwE5Qt2A3HiQHV_McugD16FH1Qa6gY0uRfsd_KcWcZ47UjbUuJuyjVW86ByvtTpRhuw5a6m9H9DkQyvHCM5Kp11SnWixSuYv6fbRIQodgX10-5F2FrZKG6wK7fHxoUlBcGjZl1gJfS_wTjMAKLtIopWz8&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:48,661 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:50,096 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?pagetoken=CrQDpQEAAHLalJevogSttck2u1TnZRuUYU4Xj8GuzZffFfzd5Zq4U8Fa_rtangl2BcvKF9AsI1dIhEYwLkkNGhJJQsHjjSUjW6sL8jWDodifXd5h38yBRSu8q6YkKXBNUcge9n3chruIBf_GkrNnrVe45-Kl6BoxTEbJh7-gP1XqdRwDegaDKT2mVl0vV6BQ6FNTL4NpDT6RalAzcTNjNUzVZqOV8DJ-SzSQcwzDgso7YxNhzXWmoySVfDRZWOZP8LQcxdhtKbrkpEhmuM90ZX49Y27asO2zo3OKQqeQ53ELS5LcASjlxnp1X9PYD3mMSTbw3zLxgAtVpCD5PkvcFq-3TtsBiMW667-rNrtwK0lwWGtxjPyXD28gelMr7_6uXIiXgf9XAzY_oLmyLKnNKQ_ikfhukPIPgGfU8U1qAc5uqrZEiTd7d48gad8FPUhx3K2q01mjHTw3nUeP4bs7wfAORSAMLIxzGAcLdBkwE5Qt2A3HiQHV_McugD16FH1Qa6gY0uRfsd_KcWcZ47UjbUuJuyjVW86ByvtTpRhuw5a6m9H9DkQyvHCM5Kp11SnWixSuYv6fbRIQodgX10-5F2FrZKG6wK7fHxoUlBcGjZl1gJfS_wTjMAKLtIopWz8&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 9750
+2018-03-14 16:20:50,101 debug current page has 20 restaurants
+2018-03-14 16:20:50,101 debug now i have a total of 60 restaurants
+2018-03-14 16:20:52,105 debug the current token is None
+2018-03-14 16:20:52,106 current length info_list is 64
+2018-03-14 16:20:52,108 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:52,918 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50310&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 3745
+2018-03-14 16:20:52,921 zip_code:50310 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50310&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:52,922 debug hey i have 7 restaurants
+2018-03-14 16:20:54,926 current length info_list is 71
+2018-03-14 16:20:54,930 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:55,529 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50311&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 1958
+2018-03-14 16:20:55,532 zip_code:50311 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50311&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:55,532 debug hey i have 3 restaurants
+2018-03-14 16:20:57,536 current length info_list is 74
+2018-03-14 16:20:57,540 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:20:58,410 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50312&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 9999
+2018-03-14 16:20:58,414 zip_code:50312 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50312&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:20:58,414 debug hey i have 20 restaurants
+2018-03-14 16:21:00,417 debug hey I am under the while loop
+2018-03-14 16:21:00,417 zip_code:50312 page:2/n https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=CpQCBQEAAA4luLs1jb-UilJMrcbpXLozgFGaHHi6MoEv_oqiVZjFwyLtxuWVJ8zSWe3GiTXrQ6RuF0ktQMr9THwYsIKTU8Q8Ic_sfvggCpDXTcsO9odcH1Gj4ZCXUdGn3cSOXCCtzRd_U5o1c-GVQRsIJAvxq5LPKNzWJXzPb3ufKdgo-RtkyFJlL7TTdScbpC-lGU-Q7D7yrHW8xJpKjRU_7Vp7oKiagtqez1xZhm3gzkvZ5tZ83YfS5QPSsF_Czu_MjKmVvIXP64FtWJKYuefqq_SIf1qV5Aqubqs6itCA1Zyh8ztKZ91-58e5QRa-8AJEQyZiasz-WcQ_8lifNLcIKtX_Uq8I8X5aUKN0YCmvYrzDfgjyEhAWTPC8yJ4QFU-NbxkuGeNlGhQdW7QhoRagpJyM0a-1vpax9sJ9Jg&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:00,421 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:01,483 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?pagetoken=CpQCBQEAAA4luLs1jb-UilJMrcbpXLozgFGaHHi6MoEv_oqiVZjFwyLtxuWVJ8zSWe3GiTXrQ6RuF0ktQMr9THwYsIKTU8Q8Ic_sfvggCpDXTcsO9odcH1Gj4ZCXUdGn3cSOXCCtzRd_U5o1c-GVQRsIJAvxq5LPKNzWJXzPb3ufKdgo-RtkyFJlL7TTdScbpC-lGU-Q7D7yrHW8xJpKjRU_7Vp7oKiagtqez1xZhm3gzkvZ5tZ83YfS5QPSsF_Czu_MjKmVvIXP64FtWJKYuefqq_SIf1qV5Aqubqs6itCA1Zyh8ztKZ91-58e5QRa-8AJEQyZiasz-WcQ_8lifNLcIKtX_Uq8I8X5aUKN0YCmvYrzDfgjyEhAWTPC8yJ4QFU-NbxkuGeNlGhQdW7QhoRagpJyM0a-1vpax9sJ9Jg&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 10330
+2018-03-14 16:21:01,487 debug current page has 20 restaurants
+2018-03-14 16:21:01,487 debug now i have a total of 40 restaurants
+2018-03-14 16:21:03,487 debug the current token is CrQDpQEAADopDdy854YjqmELA9zZIQSfi_azYPEBMXzfqXFK31vTCvK3MTbGMroNnCzimpovyy36SNfT50z1qmqlC38ejyaU00smi9u05BAn4aJDYnZxlSQHPAePR29q1EqzC6REWbTkG0LXNDh2okmOk6kHYp8ObXoHtr9p4huJ6ZguP3c9LvlR5QibgS7f4coD9spuaik6ZYhN_MFIb_Y08XdsKAutMXeAAxq_fHNDiJFavBlkqc-3LFxwWHl1g4nC04p7E-BOfUs4_Nm5QXREnmLSljtNNpZl8jjATgr2GOstWDbP3je_ubUaABmdaFwHJC5bToBqHfey0DWw-GyIhAn5cfRufi5abCpUI9y8Ce6YDR9DomPRvE1vWFXlvXb9tdWsU3JTVAKls3H_tpUYDi5Llc3PS8L-N8VbAglnQd6XFCj2N_IqjE_sMjgnhuAQKk-qBQpXhkEwpvAaEgQWGwKvbUj8A1RW3qgqyMDN2MA-joq1wr4gnxG_lAbJjVC9R7hDMlyuf2fvsTpCNiKzfB5QSnWteSC-OoK_rcB0uhBWYKXRA_MCDuEzQTP55q2jJtsoGxIQWLuA880F8bYzWY0eAj-zmxoUBVMbTG2SdVC1ONj1Ub5d0CGSVGU
+2018-03-14 16:21:03,488 debug hey I am under the while loop
+2018-03-14 16:21:03,488 zip_code:50312 page:3/n https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=CrQDpQEAADopDdy854YjqmELA9zZIQSfi_azYPEBMXzfqXFK31vTCvK3MTbGMroNnCzimpovyy36SNfT50z1qmqlC38ejyaU00smi9u05BAn4aJDYnZxlSQHPAePR29q1EqzC6REWbTkG0LXNDh2okmOk6kHYp8ObXoHtr9p4huJ6ZguP3c9LvlR5QibgS7f4coD9spuaik6ZYhN_MFIb_Y08XdsKAutMXeAAxq_fHNDiJFavBlkqc-3LFxwWHl1g4nC04p7E-BOfUs4_Nm5QXREnmLSljtNNpZl8jjATgr2GOstWDbP3je_ubUaABmdaFwHJC5bToBqHfey0DWw-GyIhAn5cfRufi5abCpUI9y8Ce6YDR9DomPRvE1vWFXlvXb9tdWsU3JTVAKls3H_tpUYDi5Llc3PS8L-N8VbAglnQd6XFCj2N_IqjE_sMjgnhuAQKk-qBQpXhkEwpvAaEgQWGwKvbUj8A1RW3qgqyMDN2MA-joq1wr4gnxG_lAbJjVC9R7hDMlyuf2fvsTpCNiKzfB5QSnWteSC-OoK_rcB0uhBWYKXRA_MCDuEzQTP55q2jJtsoGxIQWLuA880F8bYzWY0eAj-zmxoUBVMbTG2SdVC1ONj1Ub5d0CGSVGU&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:03,492 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:04,617 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?pagetoken=CrQDpQEAADopDdy854YjqmELA9zZIQSfi_azYPEBMXzfqXFK31vTCvK3MTbGMroNnCzimpovyy36SNfT50z1qmqlC38ejyaU00smi9u05BAn4aJDYnZxlSQHPAePR29q1EqzC6REWbTkG0LXNDh2okmOk6kHYp8ObXoHtr9p4huJ6ZguP3c9LvlR5QibgS7f4coD9spuaik6ZYhN_MFIb_Y08XdsKAutMXeAAxq_fHNDiJFavBlkqc-3LFxwWHl1g4nC04p7E-BOfUs4_Nm5QXREnmLSljtNNpZl8jjATgr2GOstWDbP3je_ubUaABmdaFwHJC5bToBqHfey0DWw-GyIhAn5cfRufi5abCpUI9y8Ce6YDR9DomPRvE1vWFXlvXb9tdWsU3JTVAKls3H_tpUYDi5Llc3PS8L-N8VbAglnQd6XFCj2N_IqjE_sMjgnhuAQKk-qBQpXhkEwpvAaEgQWGwKvbUj8A1RW3qgqyMDN2MA-joq1wr4gnxG_lAbJjVC9R7hDMlyuf2fvsTpCNiKzfB5QSnWteSC-OoK_rcB0uhBWYKXRA_MCDuEzQTP55q2jJtsoGxIQWLuA880F8bYzWY0eAj-zmxoUBVMbTG2SdVC1ONj1Ub5d0CGSVGU&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 9959
+2018-03-14 16:21:04,621 debug current page has 20 restaurants
+2018-03-14 16:21:04,621 debug now i have a total of 60 restaurants
+2018-03-14 16:21:06,623 debug the current token is None
+2018-03-14 16:21:06,623 current length info_list is 134
+2018-03-14 16:21:06,626 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:07,228 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50313&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 955
+2018-03-14 16:21:07,231 zip_code:50313 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50313&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:07,231 debug hey i have 1 restaurants
+2018-03-14 16:21:09,231 current length info_list is 135
+2018-03-14 16:21:09,237 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:09,838 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50314&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 1445
+2018-03-14 16:21:09,842 zip_code:50314 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50314&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:09,842 debug hey i have 2 restaurants
+2018-03-14 16:21:11,845 current length info_list is 137
+2018-03-14 16:21:11,849 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:12,763 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50315&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 10013
+2018-03-14 16:21:12,767 zip_code:50315 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50315&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:12,767 debug hey i have 20 restaurants
+2018-03-14 16:21:14,770 debug hey I am under the while loop
+2018-03-14 16:21:14,771 zip_code:50315 page:2/n https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=CpQCBQEAAGGaZ-TyGpBwxeIQnrC8tYdu3F4jJzKKuKtrIktzcaD_JgsoT0Fpxb7lhmS793gE9adnmKHZuhXj3ZYpRN9AXcMRPTE1zxrWEgfblG7GQ45WPy6RGHoDJNXU0476YNSAZ7g3pAjL4GplEO5bsBRElZnmLeqcJ5ehcdQioUYS_oEnZ2-S-NA9w9IkKxgp569Wt78mx0jsUSczUOo9g9R5NpJqtiuwKOICMZodPzT_xeJQ4f1uNlwH8QMIQFsikx6sNpDc9c__egjE48YVayFgLjhPmR-GlETKneu4AmNrPKxMfBGh9zdSvKlpF2whjSi3hkU1y2FrzYI-omNg4_GS2DTM8Ru2FX-XoPCF48zSv3QLEhA3r8MBdIrZLUgc8O_7u-XtGhT6eyJH5PvuZr_-GGsmQ_0h7-acng&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:14,775 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:16,106 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?pagetoken=CpQCBQEAAGGaZ-TyGpBwxeIQnrC8tYdu3F4jJzKKuKtrIktzcaD_JgsoT0Fpxb7lhmS793gE9adnmKHZuhXj3ZYpRN9AXcMRPTE1zxrWEgfblG7GQ45WPy6RGHoDJNXU0476YNSAZ7g3pAjL4GplEO5bsBRElZnmLeqcJ5ehcdQioUYS_oEnZ2-S-NA9w9IkKxgp569Wt78mx0jsUSczUOo9g9R5NpJqtiuwKOICMZodPzT_xeJQ4f1uNlwH8QMIQFsikx6sNpDc9c__egjE48YVayFgLjhPmR-GlETKneu4AmNrPKxMfBGh9zdSvKlpF2whjSi3hkU1y2FrzYI-omNg4_GS2DTM8Ru2FX-XoPCF48zSv3QLEhA3r8MBdIrZLUgc8O_7u-XtGhT6eyJH5PvuZr_-GGsmQ_0h7-acng&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 10008
+2018-03-14 16:21:16,112 debug current page has 20 restaurants
+2018-03-14 16:21:16,112 debug now i have a total of 40 restaurants
+2018-03-14 16:21:18,114 debug the current token is CrQDpQEAAFb2aCzRpSzDAjtip2a37Y9A8OCfSQ-7iI7Xn45bXKF3a5v_Fc_o13mNXYI04zjir4k-zY_BxOxBN6-0ftDUaIkfqA5Wd11P0VZIpy1Kdk2axPK1bCYNdE0UtNtDTTT9jAVY-k89awa5Pam1Yyh0R-DWl1hYxjScdwz4NvaStjjxrEAKqxn0G5R-XxgBiMfbHDM-SLG9zarqZky2nbBGQFOtKLd20fO-u18bwS7vZWjm4r0bdvyo-7KgbQWhSh8g6us3bNZGRzR4X5WJsDOTFEIFwlQWGdgIMXc0R1K4EM3gcjmsTDeUH1i7gx4JNW47oofAhLTqB8m_GjcxTl8vwSDa39-yzBpXRjH2iqQ3C69_ZWXqTeFLcLWJp8vVC4QHN3w6tf-VnZemxmHaDMLvzjB1I70iXtv7SlfI6jCWF0ViQpLwqGAvYH1nHNjnnYdjSqIWXrVpqLCzSS3hVwvVOLON0A0XufwEa872VG6Ib1yJ-SoPPt_zCMoMUOfeTQ68FrCgV-noGlZRPZARPBqJOuG5k1B5ey8TMhNhdPQr7acbOhI9P9hDM6XdrHbDs4TDZxIQFt1XqvDrp4KWLGICDO6OXhoUMsPfL34z_I9x47WrM1g7pLlKA5g
+2018-03-14 16:21:18,114 debug hey I am under the while loop
+2018-03-14 16:21:18,114 zip_code:50315 page:3/n https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=CrQDpQEAAFb2aCzRpSzDAjtip2a37Y9A8OCfSQ-7iI7Xn45bXKF3a5v_Fc_o13mNXYI04zjir4k-zY_BxOxBN6-0ftDUaIkfqA5Wd11P0VZIpy1Kdk2axPK1bCYNdE0UtNtDTTT9jAVY-k89awa5Pam1Yyh0R-DWl1hYxjScdwz4NvaStjjxrEAKqxn0G5R-XxgBiMfbHDM-SLG9zarqZky2nbBGQFOtKLd20fO-u18bwS7vZWjm4r0bdvyo-7KgbQWhSh8g6us3bNZGRzR4X5WJsDOTFEIFwlQWGdgIMXc0R1K4EM3gcjmsTDeUH1i7gx4JNW47oofAhLTqB8m_GjcxTl8vwSDa39-yzBpXRjH2iqQ3C69_ZWXqTeFLcLWJp8vVC4QHN3w6tf-VnZemxmHaDMLvzjB1I70iXtv7SlfI6jCWF0ViQpLwqGAvYH1nHNjnnYdjSqIWXrVpqLCzSS3hVwvVOLON0A0XufwEa872VG6Ib1yJ-SoPPt_zCMoMUOfeTQ68FrCgV-noGlZRPZARPBqJOuG5k1B5ey8TMhNhdPQr7acbOhI9P9hDM6XdrHbDs4TDZxIQFt1XqvDrp4KWLGICDO6OXhoUMsPfL34z_I9x47WrM1g7pLlKA5g&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:18,118 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:19,030 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?pagetoken=CrQDpQEAAFb2aCzRpSzDAjtip2a37Y9A8OCfSQ-7iI7Xn45bXKF3a5v_Fc_o13mNXYI04zjir4k-zY_BxOxBN6-0ftDUaIkfqA5Wd11P0VZIpy1Kdk2axPK1bCYNdE0UtNtDTTT9jAVY-k89awa5Pam1Yyh0R-DWl1hYxjScdwz4NvaStjjxrEAKqxn0G5R-XxgBiMfbHDM-SLG9zarqZky2nbBGQFOtKLd20fO-u18bwS7vZWjm4r0bdvyo-7KgbQWhSh8g6us3bNZGRzR4X5WJsDOTFEIFwlQWGdgIMXc0R1K4EM3gcjmsTDeUH1i7gx4JNW47oofAhLTqB8m_GjcxTl8vwSDa39-yzBpXRjH2iqQ3C69_ZWXqTeFLcLWJp8vVC4QHN3w6tf-VnZemxmHaDMLvzjB1I70iXtv7SlfI6jCWF0ViQpLwqGAvYH1nHNjnnYdjSqIWXrVpqLCzSS3hVwvVOLON0A0XufwEa872VG6Ib1yJ-SoPPt_zCMoMUOfeTQ68FrCgV-noGlZRPZARPBqJOuG5k1B5ey8TMhNhdPQr7acbOhI9P9hDM6XdrHbDs4TDZxIQFt1XqvDrp4KWLGICDO6OXhoUMsPfL34z_I9x47WrM1g7pLlKA5g&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 1461
+2018-03-14 16:21:19,033 debug current page has 2 restaurants
+2018-03-14 16:21:19,033 debug now i have a total of 42 restaurants
+2018-03-14 16:21:21,038 debug the current token is None
+2018-03-14 16:21:21,038 current length info_list is 179
+2018-03-14 16:21:21,043 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:21,640 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50316&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 2397
+2018-03-14 16:21:21,644 zip_code:50316 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50316&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:21,644 debug hey i have 4 restaurants
+2018-03-14 16:21:23,645 current length info_list is 183
+2018-03-14 16:21:23,650 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:24,252 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50317&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 2399
+2018-03-14 16:21:24,256 zip_code:50317 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50317&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:24,256 debug hey i have 4 restaurants
+2018-03-14 16:21:26,260 current length info_list is 187
+2018-03-14 16:21:26,265 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:26,807 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50318&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 978
+2018-03-14 16:21:26,811 zip_code:50318 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50318&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:26,811 debug hey i have 1 restaurants
+2018-03-14 16:21:28,816 current length info_list is 188
+2018-03-14 16:21:28,820 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:29,474 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50319&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 2404
+2018-03-14 16:21:29,478 zip_code:50319 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50319&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:29,478 debug hey i have 4 restaurants
+2018-03-14 16:21:31,482 current length info_list is 192
+2018-03-14 16:21:31,487 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:32,609 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50320&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 10083
+2018-03-14 16:21:32,613 zip_code:50320 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50320&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:32,613 debug hey i have 20 restaurants
+2018-03-14 16:21:34,615 debug hey I am under the while loop
+2018-03-14 16:21:34,615 zip_code:50320 page:2/n https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=CpQCBQEAAOu9OD_C6UGaRMaww-OxIJjKut7xS_Z6KHkIrKmk1pIorHvnoLmOqWGgwoqNyGg-5Mv1vuD7_XMy2mROfLG1pmYUEFbkNnUAoSzSE7hPYa3b51lnWGv8BArHn3ZFXlvirEHLORbiZZEzw2hUVpUht5YC5kXwqBE_1VA_s0hzqFdk-ybjFXEQXEmQH2sL6KRWAVKV5i0Clvn6GXKXeeqDKidXkgH65eLG9J3xLsJbB6e_MTF5rb8yM7jt-Mlk4KwNhOfeoDH7GnOmnd_q3Wyrr1E_4xcCipR0nCk3ALJZcNO9oUzOLhJc5JbENGp7oSffLE0WGdJsC_8lgUM9Xbz4QthoMaYzJmNR5fkL3wFovOnGEhDwj-v7W5jCf6cIAeo0ncYgGhR47UbSx_ZvVfBTUBPZ_JfxnwndHA&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:34,619 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:35,741 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?pagetoken=CpQCBQEAAOu9OD_C6UGaRMaww-OxIJjKut7xS_Z6KHkIrKmk1pIorHvnoLmOqWGgwoqNyGg-5Mv1vuD7_XMy2mROfLG1pmYUEFbkNnUAoSzSE7hPYa3b51lnWGv8BArHn3ZFXlvirEHLORbiZZEzw2hUVpUht5YC5kXwqBE_1VA_s0hzqFdk-ybjFXEQXEmQH2sL6KRWAVKV5i0Clvn6GXKXeeqDKidXkgH65eLG9J3xLsJbB6e_MTF5rb8yM7jt-Mlk4KwNhOfeoDH7GnOmnd_q3Wyrr1E_4xcCipR0nCk3ALJZcNO9oUzOLhJc5JbENGp7oSffLE0WGdJsC_8lgUM9Xbz4QthoMaYzJmNR5fkL3wFovOnGEhDwj-v7W5jCf6cIAeo0ncYgGhR47UbSx_ZvVfBTUBPZ_JfxnwndHA&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 10054
+2018-03-14 16:21:35,745 debug current page has 20 restaurants
+2018-03-14 16:21:35,745 debug now i have a total of 40 restaurants
+2018-03-14 16:21:37,746 debug the current token is CrQDpQEAAHJIRYRR3r8aMnpMPzdTKk8fly6eZcDBniU1RX1QhMvY1hSbhpWIxhX6YLFULCu8KQWs3ImGSVZATvpQabtaYOrPouNoVFQJYYy9HoiYrJU-U8qt9YA0qCogjKUuF2K1RzFZj4nXdlsi46t433JkMONnKYsPlNDOq12ng3R2S558PRkx8t1ZtNAWVKdgXD1bJOFYYs7v1JvlXH3MTCPI7VxEapRMvtFRBGc0LkHiDqtcRo34rcVgq50IvWleAAIgDoATVbBAXbZwtZldXHNOSGQsomC51sTUyVq4BiqqN4N2FyEBwEe6b313i5RTuR-dvMpYEDOKiGd1JKRBn1r61TjlHf4ZtfOnQ_uJqsWDydw9SJvNWp1Y1Rdl0-ih4ITyXNLSHZRpQ_xjNRCb157Jxws2Wm1MInluT2SyrJuz2FFkQhTtX-cQTbtxWjfzz5mwEfaIpyAkJm5j4EDR2DfZiN7Bj2r0JqVwAZbIh4FKA3FPLE9mPM56wZOgO2mRXmWxgDIoUpUKQZbptnU3vIVLZz0MTlkrFLmDZR3s6tE0EfzLzoYa_EEGHsNcTGWArfWVDBIQzFWKDUot1n49X_FuPGcpGRoUtS_OeIDFZSsU9JszDu699a5FkXg
+2018-03-14 16:21:37,747 debug hey I am under the while loop
+2018-03-14 16:21:37,747 zip_code:50320 page:3/n https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=CrQDpQEAAHJIRYRR3r8aMnpMPzdTKk8fly6eZcDBniU1RX1QhMvY1hSbhpWIxhX6YLFULCu8KQWs3ImGSVZATvpQabtaYOrPouNoVFQJYYy9HoiYrJU-U8qt9YA0qCogjKUuF2K1RzFZj4nXdlsi46t433JkMONnKYsPlNDOq12ng3R2S558PRkx8t1ZtNAWVKdgXD1bJOFYYs7v1JvlXH3MTCPI7VxEapRMvtFRBGc0LkHiDqtcRo34rcVgq50IvWleAAIgDoATVbBAXbZwtZldXHNOSGQsomC51sTUyVq4BiqqN4N2FyEBwEe6b313i5RTuR-dvMpYEDOKiGd1JKRBn1r61TjlHf4ZtfOnQ_uJqsWDydw9SJvNWp1Y1Rdl0-ih4ITyXNLSHZRpQ_xjNRCb157Jxws2Wm1MInluT2SyrJuz2FFkQhTtX-cQTbtxWjfzz5mwEfaIpyAkJm5j4EDR2DfZiN7Bj2r0JqVwAZbIh4FKA3FPLE9mPM56wZOgO2mRXmWxgDIoUpUKQZbptnU3vIVLZz0MTlkrFLmDZR3s6tE0EfzLzoYa_EEGHsNcTGWArfWVDBIQzFWKDUot1n49X_FuPGcpGRoUtS_OeIDFZSsU9JszDu699a5FkXg&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:37,751 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:38,980 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?pagetoken=CrQDpQEAAHJIRYRR3r8aMnpMPzdTKk8fly6eZcDBniU1RX1QhMvY1hSbhpWIxhX6YLFULCu8KQWs3ImGSVZATvpQabtaYOrPouNoVFQJYYy9HoiYrJU-U8qt9YA0qCogjKUuF2K1RzFZj4nXdlsi46t433JkMONnKYsPlNDOq12ng3R2S558PRkx8t1ZtNAWVKdgXD1bJOFYYs7v1JvlXH3MTCPI7VxEapRMvtFRBGc0LkHiDqtcRo34rcVgq50IvWleAAIgDoATVbBAXbZwtZldXHNOSGQsomC51sTUyVq4BiqqN4N2FyEBwEe6b313i5RTuR-dvMpYEDOKiGd1JKRBn1r61TjlHf4ZtfOnQ_uJqsWDydw9SJvNWp1Y1Rdl0-ih4ITyXNLSHZRpQ_xjNRCb157Jxws2Wm1MInluT2SyrJuz2FFkQhTtX-cQTbtxWjfzz5mwEfaIpyAkJm5j4EDR2DfZiN7Bj2r0JqVwAZbIh4FKA3FPLE9mPM56wZOgO2mRXmWxgDIoUpUKQZbptnU3vIVLZz0MTlkrFLmDZR3s6tE0EfzLzoYa_EEGHsNcTGWArfWVDBIQzFWKDUot1n49X_FuPGcpGRoUtS_OeIDFZSsU9JszDu699a5FkXg&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 9879
+2018-03-14 16:21:38,984 debug current page has 20 restaurants
+2018-03-14 16:21:38,984 debug now i have a total of 60 restaurants
+2018-03-14 16:21:40,986 debug the current token is None
+2018-03-14 16:21:40,986 current length info_list is 252
+2018-03-14 16:21:40,990 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:41,591 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50321&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 1922
+2018-03-14 16:21:41,595 zip_code:50321 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50321&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:41,595 debug hey i have 3 restaurants
+2018-03-14 16:21:43,599 current length info_list is 255
+2018-03-14 16:21:43,603 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:44,621 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50328&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 10132
+2018-03-14 16:21:44,624 zip_code:50328 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50328&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:44,625 debug hey i have 20 restaurants
+2018-03-14 16:21:46,629 debug hey I am under the while loop
+2018-03-14 16:21:46,632 zip_code:50328 page:2/n https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=CpQCBQEAAMy7qzuAQvZxV-0oFBE67gdsZQiBssdh7bDf0Aii9bSNSPvHUsET5skVr9-fo_Pzbtcv3PEhzKIF_B2cuza0t1d8P9MtD9qBze7_QjNZXr3v0dB6wXSzidEJWWxN1o7Lk5Gk-fvNngeU5YG11RDmXk1Gt-4QaugA2Z-MNrBrVHZ8K1NJ3rOTg3UI1D9Ad4VDzN6YRHNeOd__OXHueY4Mjgd_yKRXRrgpU70ZxANneQNaYkM-kNhEAN91RXqeqfc4gdEmtv57B0oznUAGFsYDprbaD26QhVwcflBCXAwi6Jja0cSnZxAW_Q3FZqgIDyHfMjqEzR9WIcZkNDk6F3FRm55pYSlu7jUOCWdpQvJuGyneEhA0tqNzvq2RkmfZJdUJnFgEGhQ6oKsvV-XagJdMok4WuENb4g-7ZA&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:46,636 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:47,754 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?pagetoken=CpQCBQEAAMy7qzuAQvZxV-0oFBE67gdsZQiBssdh7bDf0Aii9bSNSPvHUsET5skVr9-fo_Pzbtcv3PEhzKIF_B2cuza0t1d8P9MtD9qBze7_QjNZXr3v0dB6wXSzidEJWWxN1o7Lk5Gk-fvNngeU5YG11RDmXk1Gt-4QaugA2Z-MNrBrVHZ8K1NJ3rOTg3UI1D9Ad4VDzN6YRHNeOd__OXHueY4Mjgd_yKRXRrgpU70ZxANneQNaYkM-kNhEAN91RXqeqfc4gdEmtv57B0oznUAGFsYDprbaD26QhVwcflBCXAwi6Jja0cSnZxAW_Q3FZqgIDyHfMjqEzR9WIcZkNDk6F3FRm55pYSlu7jUOCWdpQvJuGyneEhA0tqNzvq2RkmfZJdUJnFgEGhQ6oKsvV-XagJdMok4WuENb4g-7ZA&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 7732
+2018-03-14 16:21:47,757 debug current page has 16 restaurants
+2018-03-14 16:21:47,758 debug now i have a total of 36 restaurants
+2018-03-14 16:21:49,763 debug the current token is None
+2018-03-14 16:21:49,764 current length info_list is 291
+2018-03-14 16:21:49,772 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:50,259 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50329&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:21:50,262 zip_code:50329 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50329&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:50,262 debug hey i have 0 restaurants
+2018-03-14 16:21:52,265 current length info_list is 291
+2018-03-14 16:21:52,269 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:52,872 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50330&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:21:52,875 zip_code:50330 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50330&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:52,876 debug hey i have 0 restaurants
+2018-03-14 16:21:54,876 current length info_list is 291
+2018-03-14 16:21:54,880 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:55,483 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50331&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:21:55,486 zip_code:50331 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50331&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:55,486 debug hey i have 0 restaurants
+2018-03-14 16:21:57,488 current length info_list is 291
+2018-03-14 16:21:57,493 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:21:57,990 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50332&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:21:57,993 zip_code:50332 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50332&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:21:57,993 debug hey i have 0 restaurants
+2018-03-14 16:21:59,996 current length info_list is 291
+2018-03-14 16:22:00,000 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:00,497 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50333&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:00,500 zip_code:50333 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50333&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:00,500 debug hey i have 0 restaurants
+2018-03-14 16:22:02,503 current length info_list is 291
+2018-03-14 16:22:02,507 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:03,003 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50334&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:03,006 zip_code:50334 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50334&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:03,006 debug hey i have 0 restaurants
+2018-03-14 16:22:05,007 current length info_list is 291
+2018-03-14 16:22:05,011 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:05,510 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50335&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:05,513 zip_code:50335 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50335&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:05,513 debug hey i have 0 restaurants
+2018-03-14 16:22:07,514 current length info_list is 291
+2018-03-14 16:22:07,516 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:08,035 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50336&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:08,038 zip_code:50336 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50336&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:08,039 debug hey i have 0 restaurants
+2018-03-14 16:22:10,042 current length info_list is 291
+2018-03-14 16:22:10,047 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:10,629 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50338&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:10,632 zip_code:50338 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50338&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:10,632 debug hey i have 0 restaurants
+2018-03-14 16:22:12,637 current length info_list is 291
+2018-03-14 16:22:12,642 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:13,136 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50339&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:13,139 zip_code:50339 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50339&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:13,139 debug hey i have 0 restaurants
+2018-03-14 16:22:15,144 current length info_list is 291
+2018-03-14 16:22:15,148 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:15,748 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50340&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:15,755 zip_code:50340 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50340&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:15,755 debug hey i have 0 restaurants
+2018-03-14 16:22:17,756 current length info_list is 291
+2018-03-14 16:22:17,759 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:18,253 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50347&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:18,256 zip_code:50347 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50347&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:18,256 debug hey i have 0 restaurants
+2018-03-14 16:22:20,258 current length info_list is 291
+2018-03-14 16:22:20,262 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:21,072 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50350&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:21,075 zip_code:50350 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50350&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:21,075 debug hey i have 0 restaurants
+2018-03-14 16:22:23,078 current length info_list is 291
+2018-03-14 16:22:23,083 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:23,580 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50359&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:23,583 zip_code:50359 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50359&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:23,583 debug hey i have 0 restaurants
+2018-03-14 16:22:25,586 current length info_list is 291
+2018-03-14 16:22:25,590 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:26,085 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50360&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:26,088 zip_code:50360 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50360&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:26,088 debug hey i have 0 restaurants
+2018-03-14 16:22:28,093 current length info_list is 291
+2018-03-14 16:22:28,097 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:28,907 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50361&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:28,910 zip_code:50361 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50361&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:28,910 debug hey i have 0 restaurants
+2018-03-14 16:22:30,914 current length info_list is 291
+2018-03-14 16:22:30,917 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:31,412 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50362&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:31,415 zip_code:50362 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50362&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:31,416 debug hey i have 0 restaurants
+2018-03-14 16:22:33,421 current length info_list is 291
+2018-03-14 16:22:33,425 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:34,025 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50363&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:34,029 zip_code:50363 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50363&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:34,029 debug hey i have 0 restaurants
+2018-03-14 16:22:36,030 current length info_list is 291
+2018-03-14 16:22:36,034 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:36,740 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50364&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:36,743 zip_code:50364 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50364&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:36,744 debug hey i have 0 restaurants
+2018-03-14 16:22:38,749 current length info_list is 291
+2018-03-14 16:22:38,753 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:39,247 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50367&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:39,250 zip_code:50367 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50367&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:39,250 debug hey i have 0 restaurants
+2018-03-14 16:22:41,251 current length info_list is 291
+2018-03-14 16:22:41,255 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:41,859 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50368&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:41,862 zip_code:50368 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50368&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:41,862 debug hey i have 0 restaurants
+2018-03-14 16:22:43,866 current length info_list is 291
+2018-03-14 16:22:43,870 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:44,364 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50369&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:44,368 zip_code:50369 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50369&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:44,368 debug hey i have 0 restaurants
+2018-03-14 16:22:46,375 current length info_list is 291
+2018-03-14 16:22:46,384 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:46,871 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50380&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:46,874 zip_code:50380 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50380&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:46,875 debug hey i have 0 restaurants
+2018-03-14 16:22:48,879 current length info_list is 291
+2018-03-14 16:22:48,884 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:49,586 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50381&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:49,590 zip_code:50381 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50381&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:49,590 debug hey i have 0 restaurants
+2018-03-14 16:22:51,591 current length info_list is 291
+2018-03-14 16:22:51,596 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:52,408 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50391&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 9903
+2018-03-14 16:22:52,412 zip_code:50391 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50391&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:52,412 debug hey i have 20 restaurants
+2018-03-14 16:22:54,415 debug hey I am under the while loop
+2018-03-14 16:22:54,415 zip_code:50391 page:2/n https://maps.googleapis.com/maps/api/place/textsearch/json?pagetoken=CpQCBQEAAP9Iu7ovJKvAvpJwg3zuWo3khWwJJljTaC0bRYfP3pZQcviCy3Wv6BakNnsU5LDtfCSD_bpJ2NqB46AIfzZWS1syHGgj7405AnFvMFasObfMdFI2XZc6bZ5f5nR3RXfPKR9_ZtYiS2JyNe8XuWkENvMNGy40nGM0Eg5-8kbie1JHW97bZBK_wPx4Yn2isG3tbxAF1YHC_0i-PhJOXw9SAMcDjM1rJp-5uTHW9aHeFx5nZlH0kh9vAVsf0JxxJ07rEikY00paUaTsF9di229T56kKfvNHSZjv5oWaBYQ2NrsvCe9RFJZab74n_VQ-s6mOLKbhUSD9bJJDViFA818srABxHez_rCggxhkdRjSrRj_IEhAWcmt2qWWE-xuGe1b-Vmi_GhR55E1d-SW9lII45VYnPay-spbkMg&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:54,419 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:55,415 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?pagetoken=CpQCBQEAAP9Iu7ovJKvAvpJwg3zuWo3khWwJJljTaC0bRYfP3pZQcviCy3Wv6BakNnsU5LDtfCSD_bpJ2NqB46AIfzZWS1syHGgj7405AnFvMFasObfMdFI2XZc6bZ5f5nR3RXfPKR9_ZtYiS2JyNe8XuWkENvMNGy40nGM0Eg5-8kbie1JHW97bZBK_wPx4Yn2isG3tbxAF1YHC_0i-PhJOXw9SAMcDjM1rJp-5uTHW9aHeFx5nZlH0kh9vAVsf0JxxJ07rEikY00paUaTsF9di229T56kKfvNHSZjv5oWaBYQ2NrsvCe9RFJZab74n_VQ-s6mOLKbhUSD9bJJDViFA818srABxHez_rCggxhkdRjSrRj_IEhAWcmt2qWWE-xuGe1b-Vmi_GhR55E1d-SW9lII45VYnPay-spbkMg&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 7584
+2018-03-14 16:22:55,419 debug current page has 15 restaurants
+2018-03-14 16:22:55,419 debug now i have a total of 35 restaurants
+2018-03-14 16:22:57,424 debug the current token is None
+2018-03-14 16:22:57,424 current length info_list is 326
+2018-03-14 16:22:57,429 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:22:57,942 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50392&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:22:57,945 zip_code:50392 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50392&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:22:57,946 debug hey i have 0 restaurants
+2018-03-14 16:22:59,947 current length info_list is 326
+2018-03-14 16:22:59,950 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:23:00,555 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50393&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:23:00,559 zip_code:50393 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50393&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:23:00,559 debug hey i have 0 restaurants
+2018-03-14 16:23:02,563 current length info_list is 326
+2018-03-14 16:23:02,567 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:23:03,062 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50394&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:23:03,066 zip_code:50394 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50394&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:23:03,066 debug hey i have 0 restaurants
+2018-03-14 16:23:05,066 current length info_list is 326
+2018-03-14 16:23:05,070 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:23:05,568 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50395&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:23:05,572 zip_code:50395 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50395&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:23:05,572 debug hey i have 0 restaurants
+2018-03-14 16:23:07,572 current length info_list is 326
+2018-03-14 16:23:07,576 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:23:08,366 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50396&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:23:08,369 zip_code:50396 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50396&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:23:08,369 debug hey i have 0 restaurants
+2018-03-14 16:23:10,370 current length info_list is 326
+2018-03-14 16:23:10,373 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:23:10,791 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50397&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:23:10,794 zip_code:50397 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50397&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:23:10,794 debug hey i have 0 restaurants
+2018-03-14 16:23:12,799 current length info_list is 326
+2018-03-14 16:23:12,804 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:23:13,298 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50936&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:23:13,301 zip_code:50936 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50936&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:23:13,301 debug hey i have 0 restaurants
+2018-03-14 16:23:15,303 current length info_list is 326
+2018-03-14 16:23:15,308 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:23:16,012 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50940&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:23:16,018 zip_code:50940 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50940&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:23:16,018 debug hey i have 0 restaurants
+2018-03-14 16:23:18,019 current length info_list is 326
+2018-03-14 16:23:18,025 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:23:18,521 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50947&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:23:18,524 zip_code:50947 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50947&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:23:18,525 debug hey i have 0 restaurants
+2018-03-14 16:23:20,527 current length info_list is 326
+2018-03-14 16:23:20,531 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:23:21,132 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50950&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:23:21,135 zip_code:50950 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50950&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:23:21,135 debug hey i have 0 restaurants
+2018-03-14 16:23:23,139 current length info_list is 326
+2018-03-14 16:23:23,143 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:23:23,638 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50980&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:23:23,642 zip_code:50980 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50980&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:23:23,642 debug hey i have 0 restaurants
+2018-03-14 16:23:25,642 current length info_list is 326
+2018-03-14 16:23:25,647 Starting new HTTPS connection (1): maps.googleapis.com
+2018-03-14 16:23:26,146 https://maps.googleapis.com:443 "GET /maps/api/place/textsearch/json?query=chinese+in+50981&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI HTTP/1.1" 200 83
+2018-03-14 16:23:26,148 zip_code:50981 page:1/n https://maps.googleapis.com/maps/api/place/textsearch/json?query=chinese+in+50981&type=restaurant&key=AIzaSyB_i6T2QOcNmKeJUxF6FC5B1XN1j-mixjI/n/n
+2018-03-14 16:23:26,148 debug hey i have 0 restaurants
+2018-03-14 16:23:28,153 current length info_list is 326
+2018-03-14 16:24:49,669 there are 326 restaurants received and 104 after dropping duplicates
