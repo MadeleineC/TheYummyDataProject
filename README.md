@@ -18,7 +18,7 @@ We then provide data to clients to help them decide where they should expand or 
 <h2>Research Questions:</h>
 
 <h3>What is the distribution of restaurants of a given type of cuisine by zip?</h3> 
-![Alt text](output_yummy_client/Heatmap%20of%20taco%20restaurants%20by%20zipcode%20in%20Austin%2C%20TX.png?raw=True "Heatmap")
+!["heatmap"](files/output_yummy_client/Heatmap%20of%20taco%20restaurants%20by%20zipcode%20in%20Austin%2C%20TX.png)
 <h3>What is the distribution of restaurants with similar price range by zip? </h3>
 <h3>Which neighborhoods have populations with discretionary income for the price category of our restaurant? </h3>
 <h3>Among these neighborhoods with my potential customers, how many restaurants of the same cuisine type are there and are they well received (rated)? </h3>
