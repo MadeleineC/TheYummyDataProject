@@ -30,6 +30,8 @@ Utilizing the below heatmap we see that Downtown Austin (78702) has by far the h
 
 !["Cluster Map by Density"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.12.22%20AM.png)
 
+!["Geo heatmap"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/output_yummy_client/County_heatmap_of_taco_for_Austin_TX.html)
+
 !["Location by Rating"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.09.00%20AM.png)
 Note: Dots in red are restaurants restaurants that have not been rated.
 
@@ -37,3 +39,6 @@ Note: Dots in red are restaurants restaurants that have not been rated.
 
 !["Median Income"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.07.41%20AM.png)
 
+<h3>Looking at the distribution of all restaurants, which neighborhoods prove to support restaurants of a comparable price point?</h3>
+
+!["all restaurants heatmap"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/output_yummy_client/Heatmap%20of%20restaurant%20restaurants%20by%20zipcode%20in%20Austin%2C%20TX.png)
