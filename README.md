@@ -31,11 +31,9 @@ Utilizing the below heatmap we see that Downtown Austin (78702) has by far the h
 !["Cluster Map by Density"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.12.22%20AM.png)
 
 !["Location by Rating"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.09.00%20AM.png)
-
-*Insert Cluster Map of Tacos by Density
-*Insert Client Circle Map by Rating
 Note: Dots in red are restaurants restaurants that have not been rated.
 
 <h3>Which neighborhoods have populations of target market based on income? </h3>
+
 !["Median Income"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.07.41%20AM.png)
 
