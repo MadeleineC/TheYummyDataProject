@@ -30,7 +30,7 @@ Utilizing the below heatmap we see that almost 30% of all taco restaurants in an
 
 !["Cluster Map by Density"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.12.22%20AM.png)
 
-!["Geo heatmap"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/output_yummy_client/County_heatmap_of_taco_for_Austin_TX.html)
+!["Geo heatmap"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.38.44%20AM.png)
 
 !["Location by Rating"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.09.00%20AM.png)
 Note: Dots in red are restaurants restaurants that have not been rated.
