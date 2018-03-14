@@ -1,13 +1,36 @@
 # TheYummyDataProject
-Project Title: TBD
 
-Team Members
-  Yizhi
-  Marko
-  Madeleine
-  Sarah
 
-Project Description/Outline: As a local data analysis group specialized in the food industry, we provide data to clients to help them decide where they should expand or open a new restaurant based on a type of cuisine and price. 
+<h2>Team Members</h2> 
+- Yizhi
+- Marko
+- Madeleine
+- Sarah
+
+<h2>Project Description:</h2> 
+We are a local data analysis group specialized in the food industry.
+Clients provide us with three basic details about their desired restaurant:
+- type of cuisine
+- anticipated average order value (price)
+- target markets they are considering (city & states).
+We then provide data to clients to help them decide where they should expand or open a new restaurant.
+
+<h2>Research Questions:</h>
+
+<h3>What is the distribution of restaurants of a given type of cuisine by zip?</h3> 
+![Alt text](output_yummy_client/Heatmap%20of%20taco%20restaurants%20by%20zipcode%20in%20Austin%2C%20TX.png?raw=True "Heatmap")
+<h3>What is the distribution of restaurants with similar price range by zip? </h3>
+<h3>Which neighborhoods have populations with discretionary income for the price category of our restaurant? </h3>
+<h3>Among these neighborhoods with my potential customers, how many restaurants of the same cuisine type are there and are they well received (rated)? </h3>
+
+
+
+
+
+
+
+
+
 
 Research Questions to Answer: The client tells us their restaurant type e.g. pizza place with a certain price range. We will provide the following data analysis and visualization that can provide insights into the following questions:
 - What is the distribution of restaurants with the type of cuisine among various neighborhoods in Austin? 
