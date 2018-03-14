@@ -52,7 +52,7 @@ Utilizing the below heatmap we see that almost 30% of all taco restaurants in an
 
 !["Taco Restaurant Location by Rating"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.09.00%20AM.png)
 
-Note: Dots in red are restaurants restaurants that have not been rated.
+Note: Dots in red are restaurants that have not been rated.
 
 <h3>Which neighborhoods have populations of target market based on income and support restaurants of a comparable price point? </h3>
 
