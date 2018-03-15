@@ -54,7 +54,7 @@ Utilizing the below heatmap we see that almost 30% of all taco restaurants in an
 
 Note: Dots in red are restaurants that have not been rated.
 
-<h3>Which neighborhoods have populations of target market based on income and support restaurants of a comparable price point? </h3>
+<h3>Which neighborhoods have populations of target market based on income? </h3>
 
 <h4>Taco Restaurant Density by Median Income*</h4>
 
@@ -62,13 +62,8 @@ Note: Dots in red are restaurants that have not been rated.
 
 !["Median Income"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.07.41%20AM.png)
 
-<h4>Heatmaps of All Taco Restaurants Count by Price and Rating*</h4>
 
-*See below for instructions to view dynamic plots.
-
-!["all restaurants heatmap"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/output_yummy_client/Heatmap%20of%20restaurant%20restaurants%20by%20zipcode%20in%20Austin%2C%20TX.png)
-
-<h4> Instructions to View Dynamic Mapbox Plots </h4>
+<h4> Instructions to View Dynamic Plots </h4>
 
 - Download output-mapbox_2 (mapbox visualizations) or output_yummy_client (geo-heatmap) directory from repo.
 
