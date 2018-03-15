@@ -39,6 +39,7 @@ Utilizing the “Heatmaps of Taco Restaurant Count by Rating”, we can see that
 We assume that discretionary income plays a large part in where a consumer chooses to spend their money. By identifying median income by zip code, we can suggest an area that will likely hold potential customers within our client’s menu price range. 
 Utilizing “Taco Restaurant Density by Median Income” Map, we can see that median incomes increase as you move west through each zip code. That being said, median income is lowest in 78712 and 78705 zip codes. In relation to these zip codes’ close proximity to the university, we can assume this lower income bracket is due to a larger student population. Our client's restaurant is expected to have an average order value on the lower end of the price scale ($). For this reason, we will likely target zip codes in low to mid income brackets, assuming the population is in search of new locations/restaurants within their price range & budget. 
 
+<h2>Visualizations:</h2> 
 
 <h4>Heatmaps of Taco Restaurant Count by Price and Rating</h4>
 
