@@ -79,6 +79,7 @@ Note: Dots in red are restaurants that have not been rated.
 <h4>Presentation</h4>
 
 [Link to Full Presentation](https://docs.google.com/presentation/d/1QLDXyW-qr9dcxX0ToU_s7tcpmEPBAlRHW_dnaCM8Bas/edit#slide=id.p)
+[Jupyter Notebook](https://github.com/MadeleineC/TheYummyDataProject/blob/master/YummyProject.ipynb)
 
 <h4> Instructions to View Dynamic Plots </h4>
 
