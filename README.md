@@ -60,7 +60,7 @@ Note: Dots in red are restaurants that have not been rated.
 
 <h3>Which neighborhoods have populations of the target market based on income? </h3>
 
-We can see that generally-speaking, incomes rise as you move from East Austin to West Austin.  Median income is very low in 78712 and 78705 zip codes, which makes sense given that they are close to UT.  Given that our client's restaurant is a low-end restaurant ($), we will likely eliminate zip code brackets that are particularly high income presuming that customers with higher discretionary income will likely choose to frequent higher-end restaurants.
+We can see that generally-speaking, incomes rise as you move from East Austin to West Austin. Median income is lowest in 78712 and 78705 zip codes. In relation to these zip codes’ close proximity to campus, we can assume this income bracket is due to a larger student population. Our client's restaurant is expected to have an average order value on the lower end of the price scale ($). For this reason, we will likely target zip codes in low to mid income brackets assuming the population is in search of new locations/restaurants within their price range & budget. 
 
 <h4>Taco Restaurant Density by Median Income*</h4>
 
