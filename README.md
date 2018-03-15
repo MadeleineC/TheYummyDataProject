@@ -62,6 +62,9 @@ Note: Dots in red are restaurants that have not been rated.
 
 !["Median Income"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.07.41%20AM.png)
 
+<h4>Presentation</h4>
+
+[Link to Full Presentation](https://docs.google.com/presentation/d/1QLDXyW-qr9dcxX0ToU_s7tcpmEPBAlRHW_dnaCM8Bas/edit#slide=id.p)
 
 <h4> Instructions to View Dynamic Plots </h4>
 
