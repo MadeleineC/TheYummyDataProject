@@ -18,6 +18,12 @@ Clients provide us with three basic details about their desired restaurant:
 
 We then provide data to clients to help them decide where they should expand or open a new restaurant.
 
+<h4>Presentation and Jupyter Notebook</h4>
+
+[Link to Full Presentation](https://docs.google.com/presentation/d/1QLDXyW-qr9dcxX0ToU_s7tcpmEPBAlRHW_dnaCM8Bas/edit#slide=id.p)
+
+[Jupyter Notebook](https://github.com/MadeleineC/TheYummyDataProject/blob/master/YummyProject.ipynb)
+
 <h2>Research Questions:</h2>
 
 To answer the following research questions, we are utilizing the scenario that our client wants to open a cheap ($ on Google) taco restaurant and that she is considering neighborhoods in Austin, Texas.
@@ -76,10 +82,7 @@ Note: Dots in red are restaurants that have not been rated.
 
 !["Median Income"](https://raw.githubusercontent.com/MadeleineC/TheYummyDataProject/master/Screen%20Shot%202018-03-14%20at%2011.07.41%20AM.png)
 
-<h4>Presentation</h4>
 
-[Link to Full Presentation](https://docs.google.com/presentation/d/1QLDXyW-qr9dcxX0ToU_s7tcpmEPBAlRHW_dnaCM8Bas/edit#slide=id.p)
-[Jupyter Notebook](https://github.com/MadeleineC/TheYummyDataProject/blob/master/YummyProject.ipynb)
 
 <h4> Instructions to View Dynamic Plots </h4>
 
