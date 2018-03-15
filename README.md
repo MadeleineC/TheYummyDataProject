@@ -54,7 +54,7 @@ Utilizing the below heatmap we see that almost 30% of all taco restaurants in an
 
 Note: Dots in red are restaurants that have not been rated.
 
-<h3>Which neighborhoods have populations of target market based on income? </h3>
+<h3>Which neighborhoods have populations of the target market based on income? </h3>
 
 <h4>Taco Restaurant Density by Median Income*</h4>
 
