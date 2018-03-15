@@ -24,7 +24,11 @@ To answer the following research questions, we are utilizing the scenario that o
 
 <h3>What is the distribution of restaurants of a given type of cuisine by zip? What is the distribution of restaurants with similar price range by zip? </h3>
 
-Utilizing the below heatmap we see that almost 30% of all taco restaurants in an Austin zip code can be found within just 3 zip codes.  Downtown Austin (78702) has by far the highest density of taco restaurants, followed by a distant second and third of 78704 (Barton Hills/South Congress/South Lamar) and 78757 (North Shoal Creek/Crestview). Zip codes with a modest number of taco restaurants (14-16 total) include 78756 (Rosedale), 78745 (Westgate/Garrison Park), 78759 (West of the Domain), 78758 (North Central Austin), 78744 (Southeast Austin), 78705 (North and West of UT). Within this cohort of zip codes with a modest number of taco restaurants, 78759 (West of the Domain), has fewer taco restaurants that were rated highly (4-5) as compared to other zip codes in this cohort. We also note that 78744 and 78745, both in south Austin south of 290/71, have high concentrations of cheap taco restaurants ($), which would likely mean that competition in these neighborhoods would be higher. 
+Utilizing the below heatmap we see that almost 30% of all taco restaurants in an Austin zip code can be found within just 3 zip codes.  78702 (Parts of Downtown and East Austin) has by far the highest density of taco restaurants, followed by a distant second and third of 78704 (Barton Hills/South Congress/South Lamar) and 78757 (North Shoal Creek/Crestview). Zip codes with a modest number of taco restaurants (14-16 total) include 78756 (Rosedale), 78745 (Westgate/Garrison Park), 78759 (West of the Domain), 78758 (North Central Austin), 78744 (Southeast Austin), 78705 (North and West of UT). Within this cohort of zip codes with a modest number of taco restaurants, 78759 (West of the Domain), has fewer taco restaurants that were rated highly (4-5) as compared to other zip codes in this cohort. We also note that 78744 and 78745, both in south Austin south of 290/71, have high concentrations of cheap taco restaurants ($), which would likely mean that competition in these neighborhoods would be higher. 
+
+The maps show us that in addition to the high density of taco restaurants downtown, there is a particularly high concentration of taco restaurants along certain corridors including 183, Burnet Rd. and William Cannon Dr. 
+
+Given this data, we decide that any zip code with 7 or more taco restaurants with a rating of 4-5 are likely already saturated with good taco restaurants......
 
 <h4>Heatmaps of Taco Restaurant Count by Price and Rating</h4>
 
@@ -55,6 +59,8 @@ Utilizing the below heatmap we see that almost 30% of all taco restaurants in an
 Note: Dots in red are restaurants that have not been rated.
 
 <h3>Which neighborhoods have populations of the target market based on income? </h3>
+
+We can see that generally-speaking, incomes rise as you move from East Austin to West Austin.  Median income is very low in 78712 and 78705 zip codes, which makes sense given that they are close to UT.
 
 <h4>Taco Restaurant Density by Median Income*</h4>
 
